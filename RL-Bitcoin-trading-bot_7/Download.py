@@ -13,7 +13,7 @@ t_start = datetime.datetime(2020, 1, 1, 0, 0)
 t_start = time.mktime(t_start.timetuple()) * 1000
 
 # Define the end date
-t_stop = datetime.datetime(2022, 01, 26, 0, 0)
+t_stop = datetime.datetime(2022, 1, 26, 0, 0)
 t_stop = time.mktime(t_stop.timetuple()) * 1000
 
 def fetch_data(start, stop, symbol, interval, TIMEFRAME_S):
