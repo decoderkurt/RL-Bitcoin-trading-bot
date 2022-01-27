@@ -3,7 +3,7 @@ import datetime
 import time
 import pandas as pd
 
-# Define query parameters
+# Define query parameters 
 pair = 'BTCUSD' # Currency pair of interest
 TIMEFRAME = '1h'#,'4h','1h','15m','1m'
 TIMEFRAME_S = 3600 # seconds in TIMEFRAME

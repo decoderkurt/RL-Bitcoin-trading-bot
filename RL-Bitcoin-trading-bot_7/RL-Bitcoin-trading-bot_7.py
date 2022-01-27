@@ -6,7 +6,7 @@
 #   Website     : https://pylessons.com/
 #   GitHub      : https://github.com/pythonlessons/RL-Bitcoin-trading-bot
 #   Description : Trading Crypto with Reinforcement Learning #7
-#
+# 
 #================================================================
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
